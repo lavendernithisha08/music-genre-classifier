@@ -51,6 +51,7 @@ To run this project on your local machine, please follow the steps below.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/[YOUR_GITHUB_USERNAME]/music-genre-classifier.git
+git clone https://github.com/lavendernithisha08/music-genre-classifier.git
 cd music-genre-classifier
+
 
